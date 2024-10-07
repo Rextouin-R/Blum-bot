@@ -2,8 +2,8 @@
 
 ## Features
 
-- coba kalian ikuti perintah di bawah ini
-## instal
+- Via termux
+## instal 
 ```
 pkg update && pkg upgrade - y
 ```
