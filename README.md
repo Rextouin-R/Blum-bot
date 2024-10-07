@@ -41,6 +41,6 @@ nano data.txt
 ## Run Bot
 
 ```
-python3 bot.py
+python3 blum.py
 ```
 Semoga berhasil
