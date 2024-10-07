@@ -20,7 +20,7 @@ pkg install git
 pkg install nano
 ```
 ```
-https://github.com/Rextouin-R/Blum-bot/
+git clone https://github.com/Rextouin-R/Blum-bot/
 ```
 
 # buka file
